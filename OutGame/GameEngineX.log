@@ -1,0 +1,3 @@
+﻿  Enemies.cpp
+c:\users\david parra\documents\missilecontroll\enemies.cpp(33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  GameEngineX.vcxproj -> C:\Users\David Parra\Documents\MissileControll\Build\GameEngineXd.exe
